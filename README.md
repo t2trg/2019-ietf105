@@ -2,7 +2,7 @@
 T2TRG summary meeting at IETF 105, July 2019 in Montreal
 
 Currently scheduled on the [IETF main agenda][] for Wednesday,
-July 27th, 2019, 13:30..15:30 (UTC-04:00) == 1730Z..1930Z, Room Viger
+July 24th, 2019, 13:30..15:30 (UTC-04:00) == 1730Z..1930Z, Room Viger
 
 [IETF main agenda]: https://datatracker.ietf.org/meeting/agenda
 
