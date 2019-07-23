@@ -21,11 +21,11 @@ Please contact the [chairs][] for any changes required.
 | 13:30 | Chairs            | Intro, RG Status                                                                                                          | [RFC8576][seccons], [draft-irtf-t2trg-rest-iot][restiot] |
 | 13:40 | Chairs, various   | Report from [WISHI][], [Pre-IETF meeting with OMA][pre105oma], [Hackathon][WISHI hackathon], and [Morning side meeting][] |                                                          |
 | 13:50 | Michael Koster    | Activities on data model convergence; [W3C Community Group on Schema extensions for IoT][iotschemacg]; schema.org update  |                                                          |
-| 14:10 | Matthias Kovatsch | [W3C Web of Things][W3CWoT] WG/IG update                                                                                  |                                                          |
+| 14:10 | Michael McCool | [W3C Web of Things][W3CWoT] WG/IG update                                                                                  |                                                          |
 | 14:25 | (TBA)             | (TBA)                                                                                                                     |                                                          |
 | 14:45 | Dirk Kutscher     | "Why Edge and IoT will never happen!!1!" (outrageous opinion presentation)                                                |                                                          |
-| 15:05 | Jungha Hong       | Problem Statement of IoT integrated with Edge Computing                                                                   | [draft-hong-iot-edge-computing][edge]                    |
-| 15:20 | Jungha Hong       | Edge IoT demo                                                                                                             |                                                          |
+| 15:05 | Yong-Geun Hong       | Problem Statement of IoT integrated with Edge Computing                                                                   | [draft-hong-t2trg-iot-edge-computin][edge]                    |
+| 15:20 | Yong-Geun Hong       | Edge IoT demo                                                                                                             |                                                          |
 | 15:30 |                   | end of meeting                                                                                                            |                                                          |
 
 [WISHI]: https://github.com/t2trg/wishi/wiki/Agenda-items
@@ -34,7 +34,7 @@ Please contact the [chairs][] for any changes required.
 [chairs]: mailto:t2trg-chairs@irtf.org
 [iotschemacg]: https://www.w3.org/community/iotschema/
 [W3CWoT]: https://www.w3.org/WoT/
-[edge]: https://tools.ietf.org/html/draft-hong-iot-edge-computing
+[edge]: https://tools.ietf.org/html/draft-hong-t2trg-iot-edge-computing-00
 
 [rdrepl]: https://tools.ietf.org/html/draft-amsuess-core-rd-replication
 [core-apps]: https://tools.ietf.org/html/draft-hartke-core-apps
