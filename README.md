@@ -24,7 +24,7 @@ Please contact the [chairs][] for any changes required.
 | 14:10 | Michael McCool | [W3C Web of Things][W3CWoT] WG/IG update                                                                                  |                                                          |
 | 14:25 | (TBA)             | (TBA)                                                                                                                     |                                                          |
 | 14:45 | Dirk Kutscher     | "Why Edge and IoT will never happen!!1!" (outrageous opinion presentation)                                                |                                                          |
-| 15:05 | Yong-Geun Hong       | Problem Statement of IoT integrated with Edge Computing                                                                   | [draft-hong-t2trg-iot-edge-computin][edge]                    |
+| 15:05 | Yong-Geun Hong       | Problem Statement of IoT integrated with Edge Computing                                                                   | [draft-hong-t2trg-iot-edge-computing][edge]                    |
 | 15:20 | Yong-Geun Hong       | Edge IoT demo                                                                                                             |                                                          |
 | 15:30 |                   | end of meeting                                                                                                            |                                                          |
 
