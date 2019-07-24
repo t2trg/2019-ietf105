@@ -18,12 +18,12 @@ Please contact the [chairs][] for any changes required.
 
 |  Time | Who               | Subject                                                                                                                   | Docs                                                     |
 |-------|-------------------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| 13:30 | Chairs            | Intro, RG Status                                                                                                          | [RFC8576][seccons], [draft-irtf-t2trg-rest-iot][restiot] |
-| 13:40 | Chairs, various   | Report from [WISHI][], [Pre-IETF meeting with OMA][pre105oma], [Hackathon][WISHI hackathon], and [Morning side meeting][] |                                                          |
-| 13:50 | Michael Koster    | Activities on data model convergence; [W3C Community Group on Schema extensions for IoT][iotschemacg]; schema.org update  |                                                          |
-| 14:10 | Michael McCool | [W3C Web of Things][W3CWoT] WG/IG update                                                                                  |                                                          |
-| 14:25 | Ivaylo Petrov     | YANG Object Universal Parsing Interface | [draft-petrov-t2trg-youpi][youpi]                                                       |
-| 14:30 | Christian Amsüss | Transports for CoAP: new URI schemes of CoAP protocol negotiation | |
+| 13:30 | Chairs            | Intro, RG status, upcoming meetings and activities                                                                                                         | [RFC8576][seccons], [draft-irtf-t2trg-rest-iot][restiot] |
+| 13:45 | Chairs, various   | Report from [WISHI][], [Pre-IETF meeting with OMA][pre105oma], [Hackathon][WISHI hackathon], and [Morning side meeting][] |                                                          |
+| 13:55 | Michael Koster    | Activities on data model convergence; [W3C Community Group on Schema extensions for IoT][iotschemacg]; schema.org update  |                                                          |
+| 14:15 | Michael McCool | [W3C Web of Things][W3CWoT] WG/IG update                                                                                  |                                                          |
+| 14:30 | Ivaylo Petrov     | YANG Object Universal Parsing Interface | [draft-petrov-t2trg-youpi][youpi]                                                       |
+| 14:35 | Christian Amsüss | Transports for CoAP: new URI schemes of CoAP protocol negotiation | |
 | 14:45 | Dirk Kutscher     | "Why Edge and IoT will never happen!!1!" (outrageous opinion presentation)                                                |                                                          |
 | 15:05 | Yong-Geun Hong       | Problem Statement of IoT integrated with Edge Computing                                                                   | [draft-hong-t2trg-iot-edge-computing][edge]                    |
 | 15:20 | Yong-Geun Hong       | Edge IoT demo                                                                                                             |                                                          |
